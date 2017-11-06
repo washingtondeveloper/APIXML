@@ -1,0 +1,17 @@
+<list>
+  <cliente>
+    <nome>Fernando</nome>
+    <email>fernando@exemplo.com</email>
+    <idade>19</idade>
+  </cliente>
+  <cliente>
+    <nome>Fernando</nome>
+    <email>fernando@exemplo.com</email>
+    <idade>33</idade>
+  </cliente>
+  <cliente>
+    <nome>Fernando</nome>
+    <email>fernando@exemplo.com</email>
+    <idade>89</idade>
+  </cliente>
+</list>
